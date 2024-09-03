@@ -1,1 +1,2 @@
 # 2e_1Programowanie_Obiektowe
+repozytorium 2e_1Programowanie_Obiektowe
